@@ -72,4 +72,6 @@ Performed using a structured pipeline:
 
 ## 📸 Dashboard Preview
 
+![Dashboard Preview](https://github.com/Ritik-kandpal-911/Customer-Churn-Analysis-and-Prediction/blob/main/Dashboard%20Snapshot.png)
+
 
