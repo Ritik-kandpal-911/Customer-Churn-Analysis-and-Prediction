@@ -70,5 +70,6 @@ Performed using a structured pipeline:
 - ✅ Handling NULLs using `ISNULL()`  
 - ✅ Revenue Share by Churners
 
-## Snapshot
+## 📸 Dashboard Preview
+
 
